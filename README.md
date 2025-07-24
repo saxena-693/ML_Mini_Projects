@@ -8,7 +8,7 @@ This is a personal initiative to explore and implement ML concepts with real-wor
 |------|----------------|----------------|--------|
 | 01 | [House Price Prediction](./01_House_Price_Prediction/) | Linear Regression | Done |
 | 02 | Customer Segmentation | K-Means Clustering | Coming Soon |
-| 03 | Cats vs Dogs Classification | Support Vector Machine | Coming Soon |
+| 03 | Digit Classifier | Support Vector Machine | Coming Soon |
 | 04 | Hand Gesture Recognition | CNN | Coming Soon |
 | 05 | Food Image Calorie Estimator | CNN + Regression | Coming Soon |
 
